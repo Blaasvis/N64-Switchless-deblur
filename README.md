@@ -11,3 +11,5 @@ Pin configuration: [PIF NUS / CPU]<br>
     GND                       |4  GP3 GP2 5| Reset in [PIF-NUS Pad 27]
                               `------------'
 </pre>
+
+You can build the hex file your self by using mplabx and the XC8 compiler
