@@ -1,6 +1,6 @@
 # N64-Switchless-deblur
 
-This MPLabX project for a pic12f629, the programming only support common annode led.<br><br>
+This MPLabX project for a pic12f629, the programming only support common anode led.<br><br>
 
 Pin configuration: [PIF NUS / CPU]<br>
 <pre>
